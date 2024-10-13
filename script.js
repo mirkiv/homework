@@ -6,3 +6,6 @@ function showGreeting() {
 
 showGreeting();
 //slepok old
+function logconsole() {
+	console.log("12345678910");
+}
