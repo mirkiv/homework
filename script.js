@@ -5,3 +5,4 @@ function showGreeting() {
 }
 
 showGreeting();
+//slepok old
